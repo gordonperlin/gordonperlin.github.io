@@ -200,7 +200,7 @@ background: url(../img/backgrounds/hero-bg.jpg) fixed;
   margin-top: 20px;
 }
 #features {
-  background: url(../img/backgrounds/s3d.jpg);
+  background: #3d3d3d;
   background-size: cover;
   overflow: hidden;
   position: relative;
