@@ -361,3 +361,7 @@ background: url(../img/backgrounds/hero-bg.jpg) fixed;
   background: #007bb6;
   color: #fff;
 }
+#bottom .social .fa-youtube:hover {
+  background: #cccccc;
+  color: #cc0000;
+}
